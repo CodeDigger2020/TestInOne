@@ -1,0 +1,21 @@
+--- TestInOne Framework ---
+
+> Applications Under Test:
+	1. AutomationPractice.com
+
+> Project details:
+	* Project type - Maven
+	* drivers folder - Contains all the browser drivers to run application tests.
+	* logs folder - Contains the log the test case executions.
+	* results folder - Contains the readable reports of the execution results.
+	* inputs folder - Inputs required to drive the framework. 
+
+> Framework details:
+	* Keyword driven testing
+	* Page Object Model testing
+	* Data driven testing
+
+> Maven Repositories (dependencies):
+	1. Selenium Standalone Server - 
+	2. TestNG - 
+	3. Apache POI - 

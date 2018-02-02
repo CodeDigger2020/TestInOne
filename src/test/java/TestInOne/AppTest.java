@@ -1,4 +1,4 @@
-package CodeDivers.TestInOne;
+package TestInOne;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

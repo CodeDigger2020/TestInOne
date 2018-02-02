@@ -1,4 +1,4 @@
-package CodeDivers.TestInOne;
+package TestInOne;
 
 /**
  * Hello world!
