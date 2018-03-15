@@ -16,6 +16,12 @@
 	* Data driven testing
 
 > Maven Repositories (dependencies):
-	1. Selenium Standalone Server - 
-	2. TestNG - 
-	3. Apache POI - 
+	=> JUnit - v3.8.1 
+	=> TestNG - v6.8
+	=> Selenium Java - v3.9.1
+	=> Selenium Server - v3.9.1
+	=> Firefox driver - v3.9.1
+	=> HtmlUnitDriver - v2.29.0
+	=> PhantomJSDriver - v1.2.0
+	=> Apache POI - v3.17
+	=> Apache POI OOXML - v3.17  

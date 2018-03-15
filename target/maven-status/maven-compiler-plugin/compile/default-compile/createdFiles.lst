@@ -1,0 +1,5 @@
+com\codedivers\testing\selenium\SeleniumKeywords.class
+com\codedivers\readers\ExcelReader_TestCase.class
+com\codedivers\helper\ExcelReader.class
+com\codedivers\helper\PropertyLoader.class
+com\codedivers\helper\Configurator.class
